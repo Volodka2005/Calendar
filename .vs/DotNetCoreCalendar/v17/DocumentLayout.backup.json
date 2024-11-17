@@ -1,17 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\NetCoreCalendar-master\\",
+  "WorkspaceRootPath": "C:\\calendar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|DotNetCoreCalendar.csproj|c:\\users\\admin\\downloads\\netcorecalendar-master\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|DotNetCoreCalendar.csproj|c:\\calendar\\data\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|DotNetCoreCalendar.csproj|solutionrelative:data\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|DotNetCoreCalendar.csproj|c:\\calendar\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|DotNetCoreCalendar.csproj|solutionrelative:controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|DotNetCoreCalendar.csproj|c:\\calendar\\views\\location\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|DotNetCoreCalendar.csproj|solutionrelative:views\\location\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|DotNetCoreCalendar.csproj|c:\\calendar\\views\\location\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|DotNetCoreCalendar.csproj|solutionrelative:views\\location\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|DotNetCoreCalendar.csproj|c:\\calendar\\views\\location\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|DotNetCoreCalendar.csproj|solutionrelative:views\\location\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|DotNetCoreCalendar.csproj|c:\\calendar\\views\\home\\mycalendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|DotNetCoreCalendar.csproj|solutionrelative:views\\home\\mycalendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|DotNetCoreCalendar.csproj|c:\\calendar\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|DotNetCoreCalendar.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|DotNetCoreCalendar.csproj|c:\\calendar\\controllers\\actionfilters\\useraccessonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|DotNetCoreCalendar.csproj|solutionrelative:controllers\\actionfilters\\useraccessonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|DotNetCoreCalendar.csproj|c:\\calendar\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|DotNetCoreCalendar.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|DotNetCoreCalendar.csproj|c:\\users\\admin\\downloads\\netcorecalendar-master\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|DotNetCoreCalendar.csproj|c:\\calendar\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|DotNetCoreCalendar.csproj|solutionrelative:models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|DotNetCoreCalendar.csproj|c:\\users\\admin\\downloads\\netcorecalendar-master\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|DotNetCoreCalendar.csproj|c:\\calendar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|DotNetCoreCalendar.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -22,8 +54,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\calendar\\Views\\Location\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Location\\Index.cshtml",
+              "ToolTip": "C:\\calendar\\Views\\Location\\Index.cshtml",
+              "RelativeToolTip": "Views\\Location\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:40:16.425Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -38,11 +83,100 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\calendar\\Views\\Location\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Location\\Delete.cshtml",
+              "ToolTip": "C:\\calendar\\Views\\Location\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Location\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:35:02.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\calendar\\Views\\Location\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Location\\Edit.cshtml",
+              "ToolTip": "C:\\calendar\\Views\\Location\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Location\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:34:41.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "C:\\calendar\\Data\\DAL.cs",
+              "RelativeDocumentMoniker": "Data\\DAL.cs",
+              "ToolTip": "C:\\calendar\\Data\\DAL.cs",
+              "RelativeToolTip": "Data\\DAL.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAewGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:33:49.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "C:\\calendar\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LocationController.cs",
+              "ToolTip": "C:\\calendar\\Controllers\\LocationController.cs*",
+              "RelativeToolTip": "Controllers\\LocationController.cs*",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAuwIMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:33:30.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyCalendar.cshtml",
+              "DocumentMoniker": "C:\\calendar\\Views\\Home\\MyCalendar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\MyCalendar.cshtml",
+              "ToolTip": "C:\\calendar\\Views\\Home\\MyCalendar.cshtml",
+              "RelativeToolTip": "Views\\Home\\MyCalendar.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:25:37.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\calendar\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\calendar\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:25:12.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserAccessOnly.cs",
+              "DocumentMoniker": "C:\\calendar\\Controllers\\ActionFilters\\UserAccessOnly.cs",
+              "RelativeDocumentMoniker": "Controllers\\ActionFilters\\UserAccessOnly.cs",
+              "ToolTip": "C:\\calendar\\Controllers\\ActionFilters\\UserAccessOnly.cs",
+              "RelativeToolTip": "Controllers\\ActionFilters\\UserAccessOnly.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAvwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:17:49.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Location.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\NetCoreCalendar-master\\Models\\Location.cs",
+              "DocumentMoniker": "C:\\calendar\\Models\\Location.cs",
               "RelativeDocumentMoniker": "Models\\Location.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\NetCoreCalendar-master\\Models\\Location.cs",
+              "ToolTip": "C:\\calendar\\Models\\Location.cs",
               "RelativeToolTip": "Models\\Location.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -50,24 +184,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\NetCoreCalendar-master\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\calendar\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\NetCoreCalendar-master\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\calendar\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T12:37:33.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T12:37:33.168Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\NetCoreCalendar-master\\appsettings.json",
+              "DocumentMoniker": "C:\\calendar\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\NetCoreCalendar-master\\appsettings.json",
+              "ToolTip": "C:\\calendar\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

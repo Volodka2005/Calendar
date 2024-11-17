@@ -19,6 +19,9 @@ namespace DotNetCoreCalendar.Data
         public List<Location> GetLocations();
         public Location GetLocation(int id);
         public void CreateLocation(Location location);
+        void DeleteLocation(int id);
+        void UpdateLocation(Location location);
+
     }
 
     public class DAL : IDAL
@@ -83,5 +86,28 @@ namespace DotNetCoreCalendar.Data
             db.Locations.Add(location);
             db.SaveChanges();
         }
+
+        public void UpdateLocation(Location location)
+        {
+            var existingLocation = _context.Locations.Find(location.Id);
+            if (existingLocation != null)
+            {
+                existingLocation.Name = location.Name;
+                _context.SaveChanges();
+            }
+        }
+
+
+        public void DeleteLocation(int id)
+        {
+            var location = db.Locations.Find(id);
+            if (location == null)
+            {
+                throw new ArgumentException("Location not found.");
+            }
+            db.Locations.Remove(location);
+            db.SaveChanges();
+        }
+
     }
 }

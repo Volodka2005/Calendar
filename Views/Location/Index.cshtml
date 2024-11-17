@@ -1,12 +1,14 @@
 ﻿@model IEnumerable<DotNetCoreCalendar.Models.Location>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Locations";
+
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
 <h1>Locations</h1>
 @if (ViewData["Alert"] != null)
+
 {
     <h3>@ViewData["Alert"]</h3>
 }
@@ -19,18 +21,21 @@
             <th>
                 @Html.DisplayNameFor(model => model.Name)
             </th>
-            <th></th>
+            <th>Actions</th>
         </tr>
     </thead>
     <tbody>
         @foreach (var item in Model)
+
         {
             <tr>
                 <td>
                     @Html.DisplayFor(modelItem => item.Name)
                 </td>
                 <td>
-                    <a asp-action="Details" asp-route-id="@item.Id">Details</a>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
                 </td>
             </tr>
         }

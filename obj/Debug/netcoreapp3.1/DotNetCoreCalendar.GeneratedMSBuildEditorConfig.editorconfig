@@ -1,5 +1,5 @@
 is_global = true
 build_property.RootNamespace = DotNetCoreCalendar
-build_property.ProjectDir = C:\Users\Admin\Downloads\NetCoreCalendar-master\
+build_property.ProjectDir = C:\calendar\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

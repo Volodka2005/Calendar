@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aMk85N5DE7Y=",
+  "dgSpecHash": "80Btbk5fkco=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Downloads\\NetCoreCalendar-master\\DotNetCoreCalendar.csproj",
+  "projectFilePath": "C:\\calendar\\DotNetCoreCalendar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.7\\microsoft.aspnet.mvc.5.2.7.nupkg.sha512",
